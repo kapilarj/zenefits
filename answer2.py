@@ -1,4 +1,4 @@
-# cook your dish here
+# python
 
 def fact(n):
     if n==1 or n==0:
